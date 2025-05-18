@@ -1,8 +1,6 @@
 """
 Python dersi 2.hafta ödevlerini içerir.
-
 ödevler ilk değerler kullanıcıdan alınarak
-
 1- girilen sayının pozitif, negatif veya sıfır olduğunu yazan koşul
 2- girilen sayının tek mi çift mi olduğunu yazan koşul
 3- Girilen nota göre harf aralığını yazan koşul (80-100 A, 60-80 B vs.)
@@ -15,7 +13,6 @@ Python dersi 2.hafta ödevlerini içerir.
 10-fonksiyon ile girilen sayının faktöriyelini alalım. (for ve while)
 
 """
-
 ######################################################################
 # 1 - Girilen sayının pozitif, negatif veya sıfır olduğunu yazan koşul
 #######################################################################
