@@ -50,7 +50,7 @@ Bu ödevin amacı:
 
 ## 🔗 Kaynak
 
-- 🎯 [Kaggle Titanic Competition Sayfası](https://www.kaggle.com/c/titanic/data)
+- 🎯 [Kaggle Titanic Veri Seti](https://www.kaggle.com/c/titanic/data)
 
 ---
 
