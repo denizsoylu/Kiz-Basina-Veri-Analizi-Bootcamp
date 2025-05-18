@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/RMS_Titanic_3.jpg" alt="Titanic" width="600"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/RMS_Titanic_3.jpg/1200px-RMS_Titanic_3.jpg" alt="Titanic" width="600"/>
 </p>
 
 <h1 align="center">🚢 Titanic Veri Seti İncelemesi</h1>
@@ -54,6 +54,4 @@ Bu ödevin amacı:
 
 ---
 
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/RMS_Titanic_3.jpg/1200px-RMS_Titanic_3.jpg" alt="Titanic Diagram" width="500"/>
-</p>
+
